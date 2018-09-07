@@ -1,0 +1,92 @@
+ 
+ body{
+
+    background-color: black;
+    color: white;
+ }
+ 
+ td, th {
+    border-bottom: 0px solid lightgray;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+
+
+table#t01 {
+
+    border-bottom: 0px solid lightgrey; 
+}
+
+.t02{
+
+    border-bottom: 2px solid lightgrey; 
+
+}
+
+.t03{
+
+    border-bottom: 2px solid lightgrey; 
+}
+
+.t04{
+
+    border-bottom: 2px solid lightgrey; 
+
+}
+
+.t05{
+
+    border-bottom: 2px solid lightgrey;
+}
+
+
+.t06{
+
+    border-bottom: 2px solid lightgrey;
+}
+
+
+
+.t07{
+
+    border-bottom: 2px solid lightgrey;
+}
+
+
+
+th {
+    height: 50px;
+}
+
+
+
+.soft{
+
+    text-align: center;
+}
+
+
+
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  img {
+
+    width: 88%;
+    height: 36%;
+    margin-top: 7px;
+    margin-bottom: -38px;
+    margin-right: -100px;
+    margin-left: 11px; 
+
+
+  }
